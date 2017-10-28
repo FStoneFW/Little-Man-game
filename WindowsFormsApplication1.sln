@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{9E57B85F-6DD8-4E0E-A577-8A8577B91CB7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LittleMan", "..\LittleMan\LittleMan.vdproj", "{9F1AC40D-9242-40E4-B206-E97E53D0C358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E57B85F-6DD8-4E0E-A577-8A8577B91CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E57B85F-6DD8-4E0E-A577-8A8577B91CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E57B85F-6DD8-4E0E-A577-8A8577B91CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E57B85F-6DD8-4E0E-A577-8A8577B91CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F1AC40D-9242-40E4-B206-E97E53D0C358}.Debug|Any CPU.ActiveCfg = Debug
+		{9F1AC40D-9242-40E4-B206-E97E53D0C358}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9E57B85F-6DD8-4E0E-A577-8A8577B91CB7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>game.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>14A819FEB95110ABC38774A04600BC6F704C7901</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>WindowsFormsApplication1_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChoiceProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChoiceProfile.Designer.cs">
+      <DependentUpon>ChoiceProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameClasses.cs" />
+    <Compile Include="GameCompleted.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameCompleted.Designer.cs">
+      <DependentUpon>GameCompleted.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameLevelComplete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameLevelComplete.Designer.cs">
+      <DependentUpon>GameLevelComplete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameMenu.Designer.cs">
+      <DependentUpon>GameMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameOver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameOver.Designer.cs">
+      <DependentUpon>GameOver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GamePause.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GamePause.Designer.cs">
+      <DependentUpon>GamePause.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameProcess.Designer.cs">
+      <DependentUpon>GameProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameRating.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameRating.Designer.cs">
+      <DependentUpon>GameRating.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputPasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputPasswordForm.Designer.cs">
+      <DependentUpon>InputPasswordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Keyboard.cs" />
+    <Compile Include="MapMaker\ChoiceGameObjectToAddListActivateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapMaker\ChoiceGameObjectToAddListActivateForm.Designer.cs">
+      <DependentUpon>ChoiceGameObjectToAddListActivateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapMaker\ChoiceLevelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapMaker\ChoiceLevelForm.Designer.cs">
+      <DependentUpon>ChoiceLevelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapMaker\LevelCreateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapMaker\LevelCreateForm.Designer.cs">
+      <DependentUpon>LevelCreateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapMaker\LocationCreateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapMaker\LocationCreateForm.Designer.cs">
+      <DependentUpon>LocationCreateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapMaker\MapMakerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapMaker\MapMakerForm.Designer.cs">
+      <DependentUpon>MapMakerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapMaker\PanelGameObjectsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapMaker\PanelGameObjectsForm.Designer.cs">
+      <DependentUpon>PanelGameObjectsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\BotPropForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\BotPropForm.Designer.cs">
+      <DependentUpon>BotPropForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\ChestPropForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\ChestPropForm.Designer.cs">
+      <DependentUpon>ChestPropForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\DoorPropForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\DoorPropForm.Designer.cs">
+      <DependentUpon>DoorPropForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\ItemPropForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\ItemPropForm.Designer.cs">
+      <DependentUpon>ItemPropForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\ShopItemPropForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\ShopItemPropForm.Designer.cs">
+      <DependentUpon>ShopItemPropForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\ShopPropForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\ShopPropForm.Designer.cs">
+      <DependentUpon>ShopPropForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\SwitcherPasswordPropForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\SwitcherPasswordPropForm.Designer.cs">
+      <DependentUpon>SwitcherPasswordPropForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\SwitcherPropForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\SwitcherPropForm.Designer.cs">
+      <DependentUpon>SwitcherPropForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\TeleportPropForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\TeleportPropForm.Designer.cs">
+      <DependentUpon>TeleportPropForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\TwoStatePropForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\TwoStatePropForm.Designer.cs">
+      <DependentUpon>TwoStatePropForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\DamageObjectPropForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\DamageObjectPropForm.Designer.cs">
+      <DependentUpon>DamageObjectPropForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\PropForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapMaker\PropertiesObject\PropForm.Designer.cs">
+      <DependentUpon>PropForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapMaker\SpecialChoiceObjectTeleportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapMaker\SpecialChoiceObjectTeleportForm.Designer.cs">
+      <DependentUpon>SpecialChoiceObjectTeleportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GameShop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameShop.Designer.cs">
+      <DependentUpon>GameShop.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ChoiceProfile.resx">
+      <DependentUpon>ChoiceProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameCompleted.resx">
+      <DependentUpon>GameCompleted.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameLevelComplete.resx">
+      <DependentUpon>GameLevelComplete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameMenu.resx">
+      <DependentUpon>GameMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameOver.resx">
+      <DependentUpon>GameOver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GamePause.resx">
+      <DependentUpon>GamePause.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameProcess.resx">
+      <DependentUpon>GameProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameRating.resx">
+      <DependentUpon>GameRating.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameShop.resx">
+      <DependentUpon>GameShop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputPasswordForm.resx">
+      <DependentUpon>InputPasswordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapMaker\ChoiceGameObjectToAddListActivateForm.resx">
+      <DependentUpon>ChoiceGameObjectToAddListActivateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapMaker\ChoiceLevelForm.resx">
+      <DependentUpon>ChoiceLevelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapMaker\LevelCreateForm.resx">
+      <DependentUpon>LevelCreateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapMaker\LocationCreateForm.resx">
+      <DependentUpon>LocationCreateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapMaker\MapMakerForm.resx">
+      <DependentUpon>MapMakerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapMaker\PanelGameObjectsForm.resx">
+      <DependentUpon>PanelGameObjectsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapMaker\PropertiesObject\BotPropForm.resx">
+      <DependentUpon>BotPropForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapMaker\PropertiesObject\ChestPropForm.resx">
+      <DependentUpon>ChestPropForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapMaker\PropertiesObject\DoorPropForm.resx">
+      <DependentUpon>DoorPropForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapMaker\PropertiesObject\ItemPropForm.resx">
+      <DependentUpon>ItemPropForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapMaker\PropertiesObject\ShopItemPropForm.resx">
+      <DependentUpon>ShopItemPropForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapMaker\PropertiesObject\ShopPropForm.resx">
+      <DependentUpon>ShopPropForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapMaker\PropertiesObject\SwitcherPasswordPropForm.resx">
+      <DependentUpon>SwitcherPasswordPropForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapMaker\PropertiesObject\SwitcherPropForm.resx">
+      <DependentUpon>SwitcherPropForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapMaker\PropertiesObject\TeleportPropForm.resx">
+      <DependentUpon>TeleportPropForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapMaker\PropertiesObject\TwoStatePropForm.resx">
+      <DependentUpon>TwoStatePropForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapMaker\PropertiesObject\DamageObjectPropForm.resx">
+      <DependentUpon>DamageObjectPropForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapMaker\PropertiesObject\PropForm.resx">
+      <DependentUpon>PropForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapMaker\SpecialChoiceObjectTeleportForm.resx">
+      <DependentUpon>SpecialChoiceObjectTeleportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="bin\Debug\Locations" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="WindowsFormsApplication1_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1. Летняя поляна.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2. Каньон.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3. Зимняя поляна.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4. Ночной лес.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5. Загадочная земля.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="game.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 и x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

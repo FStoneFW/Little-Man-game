@@ -1,0 +1,355 @@
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ChoiceProfile.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameMenu.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameCompleted.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameLevelComplete.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameOver.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.MapMakerForm.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PanelGameObjectsForm.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceLevelForm.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LevelCreateForm.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LocationCreateForm.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DamageObjectPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.PropForm.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.TwoStatePropForm.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceGameObjectToAddListActivateForm.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InputPasswordForm.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPasswordPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DoorPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ChestPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ItemPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopItemPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameProcess.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ChoiceProfile.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameCompleted.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameLevelComplete.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameMenu.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameOver.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InputPasswordForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceGameObjectToAddListActivateForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceLevelForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LevelCreateForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LocationCreateForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.MapMakerForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PanelGameObjectsForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ChestPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DoorPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ItemPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopItemPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPasswordPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.TwoStatePropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DamageObjectPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.PropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\FStone\Desktop\LittleManNew - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameProcess.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ChoiceProfile.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameCompleted.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameLevelComplete.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameMenu.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameOver.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameProcess.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InputPasswordForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceGameObjectToAddListActivateForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceLevelForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LevelCreateForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LocationCreateForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.MapMakerForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PanelGameObjectsForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ChestPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DoorPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ItemPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopItemPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPasswordPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.TwoStatePropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DamageObjectPropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.PropForm.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\FStone\Desktop\LittleManNew - копия - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ChoiceProfile.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameCompleted.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameLevelComplete.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameMenu.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameOver.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameProcess.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InputPasswordForm.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceGameObjectToAddListActivateForm.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceLevelForm.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LevelCreateForm.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LocationCreateForm.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.MapMakerForm.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PanelGameObjectsForm.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ChestPropForm.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DoorPropForm.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ItemPropForm.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopItemPropForm.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopPropForm.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPasswordPropForm.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPropForm.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.TwoStatePropForm.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DamageObjectPropForm.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.PropForm.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\FStone\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameRating.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ChoiceProfile.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameCompleted.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameLevelComplete.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameMenu.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameOver.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameProcess.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameRating.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InputPasswordForm.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceGameObjectToAddListActivateForm.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceLevelForm.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LevelCreateForm.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LocationCreateForm.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.MapMakerForm.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PanelGameObjectsForm.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ChestPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DoorPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ItemPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopItemPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPasswordPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.TwoStatePropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DamageObjectPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.PropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GamePause.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameShop.resources
+C:\Users\Администратор\Desktop\LittleMan (80%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.BotPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ChoiceProfile.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameCompleted.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameLevelComplete.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameMenu.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameOver.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GamePause.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameProcess.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameRating.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameShop.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InputPasswordForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceGameObjectToAddListActivateForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceLevelForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LevelCreateForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LocationCreateForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.MapMakerForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PanelGameObjectsForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.BotPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ChestPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DoorPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ItemPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopItemPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPasswordPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.TwoStatePropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DamageObjectPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.PropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.SpecialChoiceObjectTeleportForm.resources
+C:\Users\Администратор\Desktop\LittleMan (96%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.TeleportPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ChoiceProfile.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameCompleted.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameLevelComplete.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameMenu.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameOver.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GamePause.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameProcess.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameRating.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameShop.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InputPasswordForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceGameObjectToAddListActivateForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceLevelForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LevelCreateForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LocationCreateForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.MapMakerForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PanelGameObjectsForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.BotPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ChestPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DoorPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ItemPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopItemPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPasswordPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.TeleportPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.TwoStatePropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DamageObjectPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.PropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.SpecialChoiceObjectTeleportForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\LittleMan (99%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ChoiceProfile.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameCompleted.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameLevelComplete.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameMenu.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameOver.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GamePause.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameProcess.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameRating.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameShop.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InputPasswordForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceGameObjectToAddListActivateForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceLevelForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LevelCreateForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LocationCreateForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.MapMakerForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PanelGameObjectsForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.BotPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ChestPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DoorPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ItemPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopItemPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPasswordPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.TeleportPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.TwoStatePropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DamageObjectPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.PropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.SpecialChoiceObjectTeleportForm.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ChoiceProfile.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameCompleted.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameLevelComplete.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameMenu.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameOver.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GamePause.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameProcess.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameRating.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameShop.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InputPasswordForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceGameObjectToAddListActivateForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceLevelForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LevelCreateForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LocationCreateForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.MapMakerForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PanelGameObjectsForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.BotPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ChestPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DoorPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ItemPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopItemPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPasswordPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.TeleportPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.TwoStatePropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DamageObjectPropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.PropForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.SpecialChoiceObjectTeleportForm.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\LittleMan.exe.config
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LittleMan.Properties.Resources.resources
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\LittleMan.exe
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\LittleMan.pdb
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LittleMan.exe
+C:\Users\Администратор\Desktop\LittleMan (99%) - копия (8) - копия\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LittleMan.pdb
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TrustInfo.xml
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\Администратор\Desktop\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ChoiceProfile.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameCompleted.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameLevelComplete.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameMenu.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameOver.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GamePause.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameProcess.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameRating.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GameShop.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InputPasswordForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceGameObjectToAddListActivateForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.ChoiceLevelForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LevelCreateForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.LocationCreateForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.MapMakerForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PanelGameObjectsForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.BotPropForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ChestPropForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DoorPropForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ItemPropForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopItemPropForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.ShopPropForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPasswordPropForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.SwitcherPropForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.TeleportPropForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.TwoStatePropForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.DamageObjectPropForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.PropertiesObject.PropForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MapMaker.SpecialChoiceObjectTeleportForm.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TrustInfo.xml
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+D:\LittleMan (100%)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
